@@ -1,0 +1,36 @@
+h1 {
+  background-color: black;
+  color: white;
+  text-transform: lowercase;
+  font-family: Georgia, serif;
+  font-weight: 400;
+  text-align: center;
+}
+
+h2, .ingredients {
+  font-family: Helvetica, sans-serif;
+}
+
+img {
+  height: auto;
+  width: 500px;
+}
+
+.ingredients {
+  font-size: 13px;
+  font-weight: bold;
+}
+
+.steps {
+  font-size: 18px;
+  font-family: Georgia, serif;
+}
+
+.list-distinct {
+  background-color: rgb(214, 214, 214);
+}
+
+.description {
+  font-famiy: Georgia, serif;
+  font-size: 20px;
+}
